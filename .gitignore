@@ -9,3 +9,5 @@
 *.dll
 *.WCF
 *.obj
+*.MAP
+*.OBJ
