@@ -1,3 +1,5 @@
+; Example Hello World program
+
 data    segment para public 'data'
 message db  'Hello World!$'
 data    ends
