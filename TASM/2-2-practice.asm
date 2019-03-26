@@ -13,7 +13,7 @@ msgOther  db 'something else.$'
 main:
     ; getting the data segment ready
     mov	ax, @data
-	mov	ds, ax
+    mov ds, ax
 
     mov ah, 01h ; read one char instruction
     int 21h     ; execute the instruction
