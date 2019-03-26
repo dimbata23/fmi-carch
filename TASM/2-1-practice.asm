@@ -1,4 +1,5 @@
 ; Reads 3 symbols and outputs them in reverse
+
 masm
 model	small
 .data

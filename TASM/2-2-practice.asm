@@ -1,5 +1,6 @@
 ; Reads a symbol and outputs a message 
 ; wheter it's a letter, number or neither
+
 masm
 model	small
 .data
