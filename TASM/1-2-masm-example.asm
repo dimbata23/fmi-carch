@@ -1,3 +1,5 @@
+; Example of a Hello World program with masm
+
 masm
 model	small
 .data
